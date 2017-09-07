@@ -23,10 +23,10 @@
         <version.nexus.index>5</version.nexus.index>
         <version.keycloak>2.1.0.Final</version.keycloak>
 
-        <wildfly.groupId>org.wildfly</wildfly.groupId>
-        <wildfly.artifactId>wildfly-dist</wildfly.artifactId>
-        <version.wildfly>10.1.0.Final</version.wildfly>
-        <wildfly.directory>wildfly-${version.wildfly}</wildfly.directory>
+        <wildfly.groupId>org.jboss</wildfly.groupId>
+        <wildfly.artifactId>eap-dist</wildfly.artifactId>
+        <version.wildfly>7.0.7</version.wildfly>
+        <wildfly.directory>jboss-eap-7.0</wildfly.directory>
 
         <version.wildfly.maven.plugin>1.1.0.Final</version.wildfly.maven.plugin>
 
